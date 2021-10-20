@@ -1,6 +1,14 @@
+.App {
+  padding: 40px;
+}
+
 .App-header {
   background-color: #222;
   padding: 20px;
   color: white;
   text-align: center;
+}
+
+.cityBox {
+  background-color: aquamarine;
 }
